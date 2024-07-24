@@ -11,4 +11,4 @@ It showcases the concept of Layout routes, the use of the [<Outlet>](https://rea
 
 With [loaders](https://reactrouter.com/en/main/route/loader) and the [useLoaderData](https://reactrouter.com/en/main/hooks/use-loader-data) hook, we can simplify data fetching, and with [actions](https://reactrouter.com/en/main/route/action) form submission.
 
-(The little Data API this example fetches from, has a long cold start, so you might see nochting for a while.)
+(The little Data API this example fetches from has a long cold start, so you might see nochting for a while.)
